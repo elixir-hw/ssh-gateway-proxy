@@ -1,0 +1,8 @@
+.logs/
+.secrets/
+config.json
+bin/
+*.zip
+*.bak
+auth.json
+

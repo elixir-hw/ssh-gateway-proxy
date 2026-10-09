@@ -1,0 +1,9 @@
+model_provider = "company_gateway"
+model = "REPLACE_WITH_MODEL"
+model_reasoning_effort = "medium"
+
+[model_providers.company_gateway]
+name = "Company Gateway"
+base_url = "https://gateway.company.example/v1"
+wire_api = "responses"
+requires_openai_auth = true
