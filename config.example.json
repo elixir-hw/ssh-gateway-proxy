@@ -1,0 +1,8 @@
+{
+  "sshAlias": "my-server",
+  "localPort": 18791,
+  "remotePort": 18791,
+  "allowedPrivateHosts": [
+    "gateway.company.example"
+  ]
+}

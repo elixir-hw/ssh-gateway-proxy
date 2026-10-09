@@ -1,0 +1,6 @@
+.logs/
+.secrets/
+config.json
+*.zip
+*.bak
+
